@@ -1,3 +1,5 @@
+(Work in progress)
+
 This is my personal project for an app called "Mahjong Memo"
 
 What it does:
